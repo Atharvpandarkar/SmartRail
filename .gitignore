@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+@"
+>>>>>>> 3d6338cfa01ba57407b8c1c80b69b91d1baa4c55
 venv/
 .venv/
 __pycache__/
@@ -5,3 +9,7 @@ __pycache__/
 .env
 *.db
 .pytest_cache/
+<<<<<<< HEAD
+=======
+"@ | Set-Content .gitignore
+>>>>>>> 3d6338cfa01ba57407b8c1c80b69b91d1baa4c55
